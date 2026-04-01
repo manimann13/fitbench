@@ -11,3 +11,6 @@ mobile/.expo/
 # General
 .DS_Store
 *.env
+
+# plan files
+plan/
